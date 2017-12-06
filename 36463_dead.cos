@@ -11,7 +11,7 @@
 ** Creation
 **
 
-scrp 2 9 36463 1000
+scrp 2 9 36463 10
 	inst
 	setv va00 _p1_
 	setv va01 _p2_
@@ -75,7 +75,7 @@ endm
 ** Creation
 **
 
-scrp 2 10 36463 1000
+scrp 2 10 36463 10
 	inst
 	setv va00 _p1_
 	setv va01 _p2_
